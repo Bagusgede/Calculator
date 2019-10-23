@@ -1,0 +1,13 @@
+.calc table {
+	border: none;
+
+}
+
+.calc input {
+	width: 50px;
+
+}
+
+.operator {
+	background: linear-gradient(orange, red, yellow);
+}
